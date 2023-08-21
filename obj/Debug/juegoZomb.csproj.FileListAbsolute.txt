@@ -1,0 +1,13 @@
+C:\Users\Estudiante\source\repos\juegoZomb\juegoZomb\bin\Debug\juegoZomb.exe.config
+C:\Users\Estudiante\source\repos\juegoZomb\juegoZomb\bin\Debug\juegoZomb.exe
+C:\Users\Estudiante\source\repos\juegoZomb\juegoZomb\bin\Debug\juegoZomb.pdb
+C:\Users\Estudiante\source\repos\juegoZomb\juegoZomb\obj\Debug\juegoZomb.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\juegoZomb\juegoZomb\obj\Debug\juegoZomb.Form1.resources
+C:\Users\Estudiante\source\repos\juegoZomb\juegoZomb\obj\Debug\juegoZomb.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\juegoZomb\juegoZomb\obj\Debug\juegoZomb.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\juegoZomb\juegoZomb\obj\Debug\juegoZomb.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\juegoZomb\juegoZomb\obj\Debug\juegoZomb.exe
+C:\Users\Estudiante\source\repos\juegoZomb\juegoZomb\obj\Debug\juegoZomb.pdb
+C:\Users\Estudiante\source\repos\juegoZomb\juegoZomb\obj\Debug\juegoZomb.Splas.resources
+C:\Users\Estudiante\source\repos\juegoZomb\juegoZomb\obj\Debug\juegoZomb.Form2.resources
+C:\Users\Estudiante\source\repos\juegoZomb\juegoZomb\obj\Debug\juegoZomb.nivel2.resources
